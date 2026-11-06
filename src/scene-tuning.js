@@ -173,6 +173,39 @@ export const SCENE_TUNING = {
   "conveyorLayout": {
     "selected": "dualQueue3"
   },
+  "footage8Conveyor": {
+    "passengerSizeMultiplier": 1.2,
+    "roadJoinLanding": 0.14,
+    "roadJoinSteps": 3,
+    "positionX": 0,
+    "positionY": 0.025,
+    "positionZ": -2.2,
+    "scale": 2,
+    "rotationYDegrees": 0,
+    "rowSpacing": 0.2,
+    "presentationRevision": 2,
+    "footClearance": 0.008,
+    "roadJoinEnabled": 1,
+    "roadJoinExtension": -0.18,
+    "speed": 0.8,
+    "initialFillSpeedMultiplier": 4,
+    "boardingPositionPercent": 30,
+    "boardingWidthPercent": 6,
+    "showBoardingZone": 1
+  },
+  "footage9Conveyor": {
+    "positionX": 0,
+    "positionY": 0.025,
+    "positionZ": -2.2,
+    "scale": 2,
+    "rotationYDegrees": 0,
+    "rowSpacing": 0.32,
+    "speed": 0.8,
+    "initialFillSpeedMultiplier": 4,
+    "boardingPositionPercent": 30,
+    "boardingWidthPercent": 6,
+    "showBoardingZone": 1
+  },
   "spatialConveyor": {
     "capacity": 128,
     "startFilled": 1,
